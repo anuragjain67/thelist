@@ -13,6 +13,7 @@ Repo will contain important links
 
 
 # Developer & Architect
+- https://github.com/aboelkassem/educative.io_courses
 - https://github.com/faif/python-patterns A collection of design patterns/idioms in Python
 - https://github.com/kamranahmedse/developer-roadmap
 - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
