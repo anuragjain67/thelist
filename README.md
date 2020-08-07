@@ -100,6 +100,7 @@ Repo will contain important links
 
 
 # Good Software/Libraries/Framework/Tools
+- https://github.com/senguptaumd/Background-Matting Background Matting: The World is Your Green Screen
 - https://github.com/paperwork/paperwork Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - https://github.com/typicode/json-server Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - https://github.com/yudai/gotty Share your terminal as a web application
