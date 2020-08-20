@@ -67,6 +67,7 @@ Repo will contain important links
 
 
 # Computer Science, Ds and Algo
+- https://github.com/geekxh/hello-algorithm
 - https://github.com/keon/algorithms
 - https://github.com/sherxon/AlgoDS
 - https://github.com/TheAlgorithms/Python
@@ -80,6 +81,7 @@ Repo will contain important links
 
 
 # IoT, AI & Machine Learning
+- https://github.com/Palashio/libra
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - https://github.com/thibmaek/awesome-raspberry-pi
 - https://github.com/alexjc/neural-enhance
@@ -100,6 +102,8 @@ Repo will contain important links
 
 
 # Good Software/Libraries/Framework/Tools
+- https://github.com/fullcalendar/fullcalendar Calendar plugin
+- https://github.com/bradtraversy/design-resources-for-developers Design resources for developers
 - https://github.com/senguptaumd/Background-Matting Background Matting: The World is Your Green Screen
 - https://github.com/paperwork/paperwork Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - https://github.com/typicode/json-server Get a full fake REST API with zero coding in less than 30 seconds (seriously)
