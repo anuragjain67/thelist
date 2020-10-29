@@ -102,6 +102,7 @@ Repo will contain important links
 
 
 # Good Software/Libraries/Framework/Tools
+- https://github.com/sherlock-project/sherlock Hunt down social media accounts by username across social networks
 - https://github.com/fullcalendar/fullcalendar Calendar plugin
 - https://github.com/bradtraversy/design-resources-for-developers Design resources for developers
 - https://github.com/senguptaumd/Background-Matting Background Matting: The World is Your Green Screen
