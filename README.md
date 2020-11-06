@@ -81,6 +81,7 @@ Repo will contain important links
 
 
 # IoT, AI & Machine Learning
+- https://github.com/AMAI-GmbH/AI-Expert-Roadmap RoadMap 
 - https://github.com/Palashio/libra
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - https://github.com/thibmaek/awesome-raspberry-pi
