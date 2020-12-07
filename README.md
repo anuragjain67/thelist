@@ -1,16 +1,47 @@
 Repo will contain important links
 
-# Prepare for Interview
-- https://github.com/kdn251/interviews
-- https://github.com/yangshun/tech-interview-handbook
-- https://github.com/checkcheckzz/system-design-interview
-- https://github.com/jwasham/coding-interview-university
-- https://github.com/FAQGURU/FAQGURU
-- https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
-- https://github.com/poteto/hiring-without-whiteboards
-- https://github.com/jwasham/coding-interview-university
-- https://github.com/MaximAbramchuck/awesome-interview-questions 
 
+# Good Software/Libraries/Framework/Tools
+- https://github.com/monicahq/monica Personal CRM
+- https://github.com/alyssaxuu/screenity Screen Recorder
+- https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life 
+- https://github.com/sherlock-project/sherlock Hunt down social media accounts by username across social networks
+- https://github.com/fullcalendar/fullcalendar Calendar plugin
+- https://github.com/bradtraversy/design-resources-for-developers Design resources for developers
+- https://github.com/senguptaumd/Background-Matting Background Matting: The World is Your Green Screen
+- https://github.com/paperwork/paperwork Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+- https://github.com/typicode/json-server Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- https://github.com/yudai/gotty Share your terminal as a web application
+- https://github.com/rrweb-io/rrweb - record and replay the web
+- https://github.com/ankane/pghero
+- https://github.com/jfcoz/postgresqltuner
+- https://github.com/stephhappens/awesome-tools-for-junior-developers
+- https://github.com/veggiemonk/awesome-docker
+- https://github.com/schollz/howmanypeoplearearound
+- https://github.com/jaywcjlove/awesome-mac
+- https://github.com/square/retrofit
+- https://github.com/opserver/Opserver
+- https://github.com/getsandbox/sandbox
+- https://github.com/chubin/cheat.sh
+- https://github.com/marktext/marktext
+- https://github.com/kamranahmedse/git-standup
+- https://github.com/lebinh/ngxtop
+- https://github.com/public-apis/public-apis
+- https://github.com/guarinogabriel/Mac-CLI
+- https://github.com/lesspass/lesspass
+- https://github.com/HelloZeroNet/ZeroNet
+- https://github.com/mrzool/bash-sensible
+- https://github.com/whitesmith/hawkpost
+- https://github.com/keeweb/keeweb
+- https://github.com/dthree/cash
+- https://github.com/openpaperwork/paperwork
+- https://github.com/jiaaro/pydub Manipulate audio with a simple and easy high level interface
+- https://github.com/huginn/huginn Create agents that monitor and act on your behalf. Your agents are standing by!
+- https://github.com/AlexTatiyants/pev Postgres Explain Visualizer
+- https://github.com/devsnd/cherrymusic Stream your own music collection to all your devices! The easy to use free and open-source music streaming server.
+- https://github.com/koel/koel A personal music streaming server that works.
+- https://github.com/NARKOZ/hacker-scripts 
+- https://github.com/home-assistant/core Open source home automation that puts local control and privacy first
 
 # Developer & Architect
 - https://github.com/aboelkassem/educative.io_courses
@@ -102,46 +133,17 @@ Repo will contain important links
 - https://github.com/danluu/debugging-stories A collection of debugging stories
 
 
-# Good Software/Libraries/Framework/Tools
-- https://github.com/alyssaxuu/screenity Screen Recorder
-- https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life 
-- https://github.com/sherlock-project/sherlock Hunt down social media accounts by username across social networks
-- https://github.com/fullcalendar/fullcalendar Calendar plugin
-- https://github.com/bradtraversy/design-resources-for-developers Design resources for developers
-- https://github.com/senguptaumd/Background-Matting Background Matting: The World is Your Green Screen
-- https://github.com/paperwork/paperwork Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-- https://github.com/typicode/json-server Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- https://github.com/yudai/gotty Share your terminal as a web application
-- https://github.com/rrweb-io/rrweb - record and replay the web
-- https://github.com/ankane/pghero
-- https://github.com/jfcoz/postgresqltuner
-- https://github.com/stephhappens/awesome-tools-for-junior-developers
-- https://github.com/veggiemonk/awesome-docker
-- https://github.com/schollz/howmanypeoplearearound
-- https://github.com/jaywcjlove/awesome-mac
-- https://github.com/square/retrofit
-- https://github.com/opserver/Opserver
-- https://github.com/getsandbox/sandbox
-- https://github.com/chubin/cheat.sh
-- https://github.com/marktext/marktext
-- https://github.com/kamranahmedse/git-standup
-- https://github.com/lebinh/ngxtop
-- https://github.com/public-apis/public-apis
-- https://github.com/guarinogabriel/Mac-CLI
-- https://github.com/lesspass/lesspass
-- https://github.com/HelloZeroNet/ZeroNet
-- https://github.com/mrzool/bash-sensible
-- https://github.com/whitesmith/hawkpost
-- https://github.com/keeweb/keeweb
-- https://github.com/dthree/cash
-- https://github.com/openpaperwork/paperwork
-- https://github.com/jiaaro/pydub Manipulate audio with a simple and easy high level interface
-- https://github.com/huginn/huginn Create agents that monitor and act on your behalf. Your agents are standing by!
-- https://github.com/AlexTatiyants/pev Postgres Explain Visualizer
-- https://github.com/devsnd/cherrymusic Stream your own music collection to all your devices! The easy to use free and open-source music streaming server.
-- https://github.com/koel/koel A personal music streaming server that works.
-- https://github.com/NARKOZ/hacker-scripts 
-- https://github.com/home-assistant/core Open source home automation that puts local control and privacy first
+# Prepare for Interview
+- https://github.com/kdn251/interviews
+- https://github.com/yangshun/tech-interview-handbook
+- https://github.com/checkcheckzz/system-design-interview
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/FAQGURU/FAQGURU
+- https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
+- https://github.com/poteto/hiring-without-whiteboards
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/MaximAbramchuck/awesome-interview-questions 
+
 
 # Misc
 - https://github.com/LisaDziuba/Marketing-for-Engineers
