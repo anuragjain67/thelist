@@ -44,6 +44,7 @@ Repo will contain important links
 - https://github.com/home-assistant/core Open source home automation that puts local control and privacy first
 
 # Developer & Architect
+- https://linkedin.github.io/school-of-sre/ Beginner Must Read
 - https://github.com/aboelkassem/educative.io_courses
 - https://github.com/faif/python-patterns A collection of design patterns/idioms in Python
 - https://github.com/kamranahmedse/developer-roadmap
@@ -72,6 +73,7 @@ Repo will contain important links
 
 
 # Learn frontend development
+- https://javascript.info/ Learn Modern Javascript 
 - https://github.com/getify/You-Dont-Know-JS A book series on JavaScript. @YDKJS on twitter.
 - https://github.com/bolshchikov/js-must-watch Must-watch videos about javascript
 - https://github.com/coodict/javascript-in-one-pic Learn javascript in one picture.
