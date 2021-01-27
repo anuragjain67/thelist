@@ -2,6 +2,7 @@ Repo will contain important links
 
 
 # Good Software/Libraries/Framework/Tools
+- https://github.com/pavlobu/deskreen convert any device to your second screen
 - https://github.com/monicahq/monica Personal CRM
 - https://github.com/alyssaxuu/screenity Screen Recorder
 - https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life 
@@ -47,7 +48,7 @@ Repo will contain important links
 - https://linkedin.github.io/school-of-sre/ Beginner Must Read
 - https://github.com/aboelkassem/educative.io_courses
 - https://github.com/faif/python-patterns A collection of design patterns/idioms in Python
-- https://github.com/kamranahmedse/developer-roadmap
+- https://github.com/kamranahmedse/developer-roadmap 
 - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 - https://github.com/mtdvio/every-programmer-should-know
 - https://github.com/norvig/pytudes - Python programs to practice or demonstrate skills.
@@ -73,6 +74,7 @@ Repo will contain important links
 
 
 # Learn frontend development
+- https://github.com/Asabeneh/30-Days-Of-JavaScript 
 - https://javascript.info/ Learn Modern Javascript 
 - https://github.com/getify/You-Dont-Know-JS A book series on JavaScript. @YDKJS on twitter.
 - https://github.com/bolshchikov/js-must-watch Must-watch videos about javascript
@@ -148,6 +150,9 @@ Repo will contain important links
 
 
 # Misc
+- https://github.com/preslavmihaylov/booknotes 
+- https://github.com/jesselpalmer/the-engineering-managers-booklist
+- https://github.com/sundowndev/hacker-roadmap 
 - https://github.com/LisaDziuba/Marketing-for-Engineers
 - https://github.com/jesselpalmer/the-engineering-managers-booklist
 - https://github.com/hackerkid/Mind-Expanding-Books
