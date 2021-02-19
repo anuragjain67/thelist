@@ -138,6 +138,7 @@ Repo will contain important links
 
 
 # Prepare for Interview
+- https://github.com/viraptor/reverse-interview
 - https://github.com/kdn251/interviews
 - https://github.com/yangshun/tech-interview-handbook
 - https://github.com/checkcheckzz/system-design-interview
