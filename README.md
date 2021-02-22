@@ -45,6 +45,7 @@ Repo will contain important links
 - https://github.com/home-assistant/core Open source home automation that puts local control and privacy first
 
 # Developer & Architect
+- https://github.com/chanakaudaya/solution-architecture-patterns 
 - https://linkedin.github.io/school-of-sre/ Beginner Must Read
 - https://github.com/aboelkassem/educative.io_courses
 - https://github.com/faif/python-patterns A collection of design patterns/idioms in Python
