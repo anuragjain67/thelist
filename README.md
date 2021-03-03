@@ -44,7 +44,9 @@ Repo will contain important links
 - https://github.com/NARKOZ/hacker-scripts 
 - https://github.com/home-assistant/core Open source home automation that puts local control and privacy first
 
-# Developer & Architect
+# CTO, EM, Dev, Architect
+- https://github.com/jesselpalmer/the-engineering-managers-booklist
+- https://github.com/kuchin/awesome-cto
 - https://github.com/chanakaudaya/solution-architecture-patterns 
 - https://linkedin.github.io/school-of-sre/ Beginner Must Read
 - https://github.com/aboelkassem/educative.io_courses
@@ -153,10 +155,8 @@ Repo will contain important links
 
 # Misc
 - https://github.com/preslavmihaylov/booknotes 
-- https://github.com/jesselpalmer/the-engineering-managers-booklist
 - https://github.com/sundowndev/hacker-roadmap 
 - https://github.com/LisaDziuba/Marketing-for-Engineers
-- https://github.com/jesselpalmer/the-engineering-managers-booklist
 - https://github.com/hackerkid/Mind-Expanding-Books
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/learn-anything/books
